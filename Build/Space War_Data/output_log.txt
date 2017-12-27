@@ -1,0 +1,50 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     547 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\2\A2 - 27415281\Build\Space War_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\2\A2 - 27415281\Build\Space War_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\2\A2 - 27415281\Build\Space War_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\2\A2 - 27415281\Build\Space War_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\2\A2 - 27415281\Build\Space War_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\2\A2 - 27415281\Build\Space War_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\2\A2 - 27415281\Build\Space War_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\2\A2 - 27415281\Build\Space War_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.545 seconds
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\2\A2 - 27415281\Build\Space War_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\iEklipse\Dropbox\Concordia\Fall 2016\COMP 376\Assignments\2\A2 - 27415281\Build\Space War_Data\Managed\System.dll (this message is harmless)
+desktop: 1368x768 60Hz; virtual: 1368x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.816320 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.683458 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 584.
+Total: 4.488193 ms (FindLiveObjects: 0.049920 ms CreateObjectMapping: 0.103680 ms MarkObjects: 0.417024 ms  DeleteObjects: 3.916033 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.965376 ms
+
+Unloading 345 unused Assets to reduce memory usage. Loaded Objects now: 238.
+Total: 8.266754 ms (FindLiveObjects: 0.043008 ms CreateObjectMapping: 0.076032 ms MarkObjects: 0.425472 ms  DeleteObjects: 7.719937 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.384704 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 584.
+Total: 4.594945 ms (FindLiveObjects: 0.051456 ms CreateObjectMapping: 0.076032 ms MarkObjects: 0.444672 ms  DeleteObjects: 4.021249 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.166592 ms
+
+Unloading 345 unused Assets to reduce memory usage. Loaded Objects now: 238.
+Total: 8.263682 ms (FindLiveObjects: 0.041472 ms CreateObjectMapping: 0.076032 ms MarkObjects: 0.430080 ms  DeleteObjects: 7.715329 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 16d8 -> priority: 1 
